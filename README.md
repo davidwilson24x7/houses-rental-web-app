@@ -1,5 +1,7 @@
 # houses-rental
 
+![](images/House-Rental.png)
+
 
 This is full stack “House Rentals” web app with microservice architecture
 
