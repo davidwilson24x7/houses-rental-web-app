@@ -1,10 +1,7 @@
 # Project Name
 
-> We are mocking the Airbnb website. I response for photoGallery component.
+> Full Stack Houses Rental Web App.
 
-## Related Projects
-
-  - https://github.com/hrsf127-airbnb/photoGallery-service
 
 ## Table of Contents
 
@@ -12,9 +9,7 @@
 1. [Requirements](#requirements)
 1. [Development](#development)
 
-## Usage
 
-> Some usage instructions
 
 ## Requirements
 
