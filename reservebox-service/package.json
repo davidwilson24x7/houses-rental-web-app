@@ -1,7 +1,6 @@
 {
   "name": "package.json",
   "description": "Airbnb reserve box",
-  "author": "Luke",
   "license": "no copies",
   "engines": {
     "node": ">=6.13.0"
